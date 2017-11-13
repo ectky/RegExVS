@@ -1,0 +1,6 @@
+D:\VSProjects\RegularExpressions\Weather\bin\Debug\Weather.exe.config
+D:\VSProjects\RegularExpressions\Weather\bin\Debug\Weather.exe
+D:\VSProjects\RegularExpressions\Weather\bin\Debug\Weather.pdb
+D:\VSProjects\RegularExpressions\Weather\obj\Debug\Weather.csprojResolveAssemblyReference.cache
+D:\VSProjects\RegularExpressions\Weather\obj\Debug\Weather.exe
+D:\VSProjects\RegularExpressions\Weather\obj\Debug\Weather.pdb

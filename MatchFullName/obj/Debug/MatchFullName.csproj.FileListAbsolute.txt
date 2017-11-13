@@ -1,0 +1,6 @@
+D:\VSProjects\RegularExpressions\MatchFullName\bin\Debug\MatchFullName.exe.config
+D:\VSProjects\RegularExpressions\MatchFullName\bin\Debug\MatchFullName.exe
+D:\VSProjects\RegularExpressions\MatchFullName\bin\Debug\MatchFullName.pdb
+D:\VSProjects\RegularExpressions\MatchFullName\obj\Debug\MatchFullName.csprojResolveAssemblyReference.cache
+D:\VSProjects\RegularExpressions\MatchFullName\obj\Debug\MatchFullName.exe
+D:\VSProjects\RegularExpressions\MatchFullName\obj\Debug\MatchFullName.pdb

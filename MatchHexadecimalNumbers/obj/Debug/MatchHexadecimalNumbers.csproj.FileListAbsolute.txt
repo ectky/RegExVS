@@ -1,0 +1,5 @@
+D:\VSProjects\RegularExpressions\MatchHexadecimalNumbers\bin\Debug\MatchHexadecimalNumbers.exe.config
+D:\VSProjects\RegularExpressions\MatchHexadecimalNumbers\bin\Debug\MatchHexadecimalNumbers.exe
+D:\VSProjects\RegularExpressions\MatchHexadecimalNumbers\bin\Debug\MatchHexadecimalNumbers.pdb
+D:\VSProjects\RegularExpressions\MatchHexadecimalNumbers\obj\Debug\MatchHexadecimalNumbers.exe
+D:\VSProjects\RegularExpressions\MatchHexadecimalNumbers\obj\Debug\MatchHexadecimalNumbers.pdb

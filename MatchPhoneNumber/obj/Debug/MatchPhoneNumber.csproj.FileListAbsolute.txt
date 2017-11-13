@@ -1,0 +1,5 @@
+D:\VSProjects\RegularExpressions\MatchPhoneNumber\bin\Debug\MatchPhoneNumber.exe.config
+D:\VSProjects\RegularExpressions\MatchPhoneNumber\bin\Debug\MatchPhoneNumber.exe
+D:\VSProjects\RegularExpressions\MatchPhoneNumber\bin\Debug\MatchPhoneNumber.pdb
+D:\VSProjects\RegularExpressions\MatchPhoneNumber\obj\Debug\MatchPhoneNumber.exe
+D:\VSProjects\RegularExpressions\MatchPhoneNumber\obj\Debug\MatchPhoneNumber.pdb
