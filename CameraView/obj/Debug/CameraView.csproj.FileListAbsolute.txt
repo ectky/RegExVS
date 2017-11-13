@@ -1,0 +1,6 @@
+D:\VSProjects\RegularExpressions\CameraView\bin\Debug\CameraView.exe.config
+D:\VSProjects\RegularExpressions\CameraView\bin\Debug\CameraView.exe
+D:\VSProjects\RegularExpressions\CameraView\bin\Debug\CameraView.pdb
+D:\VSProjects\RegularExpressions\CameraView\obj\Debug\CameraView.csprojResolveAssemblyReference.cache
+D:\VSProjects\RegularExpressions\CameraView\obj\Debug\CameraView.exe
+D:\VSProjects\RegularExpressions\CameraView\obj\Debug\CameraView.pdb

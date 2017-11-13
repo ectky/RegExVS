@@ -1,0 +1,6 @@
+D:\VSProjects\RegularExpressions\ExtractSentencesByKeyword\bin\Debug\ExtractSentencesByKeyword.exe.config
+D:\VSProjects\RegularExpressions\ExtractSentencesByKeyword\bin\Debug\ExtractSentencesByKeyword.exe
+D:\VSProjects\RegularExpressions\ExtractSentencesByKeyword\bin\Debug\ExtractSentencesByKeyword.pdb
+D:\VSProjects\RegularExpressions\ExtractSentencesByKeyword\obj\Debug\ExtractSentencesByKeyword.csprojResolveAssemblyReference.cache
+D:\VSProjects\RegularExpressions\ExtractSentencesByKeyword\obj\Debug\ExtractSentencesByKeyword.exe
+D:\VSProjects\RegularExpressions\ExtractSentencesByKeyword\obj\Debug\ExtractSentencesByKeyword.pdb

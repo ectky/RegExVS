@@ -1,0 +1,6 @@
+D:\VSProjects\RegularExpressions\ExtractEmails\bin\Debug\ExtractEmails.exe.config
+D:\VSProjects\RegularExpressions\ExtractEmails\bin\Debug\ExtractEmails.exe
+D:\VSProjects\RegularExpressions\ExtractEmails\bin\Debug\ExtractEmails.pdb
+D:\VSProjects\RegularExpressions\ExtractEmails\obj\Debug\ExtractEmails.csprojResolveAssemblyReference.cache
+D:\VSProjects\RegularExpressions\ExtractEmails\obj\Debug\ExtractEmails.exe
+D:\VSProjects\RegularExpressions\ExtractEmails\obj\Debug\ExtractEmails.pdb

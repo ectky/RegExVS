@@ -1,0 +1,5 @@
+D:\VSProjects\RegularExpressions\MatchDates\bin\Debug\MatchDates.exe.config
+D:\VSProjects\RegularExpressions\MatchDates\bin\Debug\MatchDates.exe
+D:\VSProjects\RegularExpressions\MatchDates\bin\Debug\MatchDates.pdb
+D:\VSProjects\RegularExpressions\MatchDates\obj\Debug\MatchDates.exe
+D:\VSProjects\RegularExpressions\MatchDates\obj\Debug\MatchDates.pdb

@@ -1,0 +1,5 @@
+D:\VSProjects\RegularExpressions\KeyReplacer\bin\Debug\KeyReplacer.exe.config
+D:\VSProjects\RegularExpressions\KeyReplacer\bin\Debug\KeyReplacer.exe
+D:\VSProjects\RegularExpressions\KeyReplacer\bin\Debug\KeyReplacer.pdb
+D:\VSProjects\RegularExpressions\KeyReplacer\obj\Debug\KeyReplacer.exe
+D:\VSProjects\RegularExpressions\KeyReplacer\obj\Debug\KeyReplacer.pdb
